@@ -4,7 +4,6 @@ public class Pattern {
     pattern16(n);
     
 }
-
 static void pattern16(int n)
 {
     int[] prev = {1}; // start with row 1
@@ -254,6 +253,7 @@ static void pattern11(int n )
         System.out.println();
     }
 }
+
 static void pattern2(int n )
 {
     for(int i=1;i<=n;i++)
